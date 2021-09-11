@@ -23,7 +23,7 @@ Checar se o Maven está instalado:
 1) Clone o projeto no terminal com o seguinte comando: `git clone https://github.com/FernandaMakiHirose/animais-sobrecarga.git`
 2) Abra o projeto no IntelliJ IDEA
 3) Aceitei o IntelliJ IDEA instalar as dependências e o Maven. Irá aparecer uma opção de aceitar fazer o download.
-4) Dentro do arquivo `AnimaisPolimorfismoApplication.java` digite no terminal: `mvn spring-boot:run`
+4) Dentro do arquivo `AnimaisSobrecargaApplication.java` digite no terminal: `mvn spring-boot:run`
 
 ## Como inicializei o projeto?
 - Utilizei o site [Spring Initializr](https://start.spring.io/) para gerar meu projeto
@@ -31,10 +31,10 @@ Checar se o Maven está instalado:
 - Language: [X] Java
 - Spring Boot: [X] 2.5.4
 - Group: fernandamakihirose
-- Artifact: animais-polimorfismo
-- Name: animais-polimorfismo
+- Artifact: animais-sobrecarga
+- Name: animais-sobrecarga
 - Description: Demo project for Spring Boot
-- Package name: fernandamakihirose.animais-polimorfismo
+- Package name: fernandamakihirose.animais-sobrecarga
 - Packaging: [X] Jar
 - Java: [X] 11 
 - Dependencies: Lombok
